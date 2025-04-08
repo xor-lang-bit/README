@@ -15,6 +15,6 @@
 
 <p align="center">
   <a href="https://x.com/xor25th" title="X.com">
-    <img src="https://img.shields.io/badge/X.com-black?style=plastic&link=https%3A%2F%2Fx.com%2Fxor25th" alt="X.com"/>
+    <img src="https://img.shields.io/badge/X.com-%2300c6ff?style=for-the-badge&logo=twitter&logoColor=white" alt="X.com" />
   </a>
 </p>
