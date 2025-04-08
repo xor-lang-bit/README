@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: **Lua ( & all other forks ), PHP, Python, HTML, JavaScript, C++**
+  🦄 Languages: <strong>Lua ( & all other forks ), PHP, Python, HTML, JavaScript, C++</strong>
 </p>
 
 <p align="left">
